@@ -1,0 +1,6 @@
+projectKey=BookDemo
+serverUrl=http://localhost:9999
+serverVersion=10.3.0.82913
+dashboardUrl=http://localhost:9999/dashboard?id=BookDemo
+ceTaskId=AYwVlQf4_HCUc1YSDHoM
+ceTaskUrl=http://localhost:9999/api/ce/task?id=AYwVlQf4_HCUc1YSDHoM
