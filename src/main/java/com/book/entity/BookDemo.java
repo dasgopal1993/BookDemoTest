@@ -13,7 +13,6 @@ public class BookDemo {
     private Long id;
     private String title;
     private String  author;
-    private String city;
 
      public BookDemo(Long id, String title, String author) {
         this.id = id;
