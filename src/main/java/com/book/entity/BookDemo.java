@@ -16,6 +16,9 @@ public class BookDemo {
     private String city;
     private String book;
     private String comp;
+     private String mr;
+    private String mrs;
+    private String dontno;
 
      public BookDemo(Long id, String title, String author) {
         this.id = id;
