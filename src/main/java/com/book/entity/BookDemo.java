@@ -12,7 +12,7 @@ public class BookDemo {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
     private String title;
-    private String author;
+    private String  author;
 
      public BookDemo(Long id, String title, String author) {
         this.id = id;
