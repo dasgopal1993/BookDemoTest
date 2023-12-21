@@ -13,14 +13,15 @@ public class BookDemo {
     private Long id;
     private String title;
     private String  author;
+    private String city;
+    private String book;
+    private String comp;
 
      public BookDemo(Long id, String title, String author) {
         this.id = id;
         this.title = title;
         this.author = author;
-         this.city = city;
-         this.book = book;
-         this.comp = comp;
+        
     }
 
     public Long getId() {
