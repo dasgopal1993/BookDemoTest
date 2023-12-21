@@ -18,6 +18,9 @@ public class BookDemo {
         this.id = id;
         this.title = title;
         this.author = author;
+         this.city = city;
+         this.book = book;
+         this.comp = comp;
     }
 
     public Long getId() {
